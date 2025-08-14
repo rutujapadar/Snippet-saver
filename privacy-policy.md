@@ -12,7 +12,7 @@ All saved text snippets are stored **only in your browser's local storage**. Thi
 - **activeTab** – Used only to access the currently active tab when the user triggers the "Save Snippet" action.
 - **contextMenus** – Allows the extension to add a right-click menu option for saving selected text.
 - **storage** – Stores your saved snippets locally in the browser.
-- **scripting** – Used to capture highlighted text from the webpage and save it.
+
 
 ## Third-Party Sharing
 We do not share any data with third parties.
